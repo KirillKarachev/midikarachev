@@ -1,10 +1,3 @@
-/*
- * FMWaveGenerator.cc
- *
- *  Created on: 17 ����. 2020 �.
- *      Author: prepod
- */
-
 #include "FMWaveGenerator.h"
 #include "globals.h"
 #include "EnvelopeGenerator.h"

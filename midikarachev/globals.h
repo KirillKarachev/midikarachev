@@ -1,10 +1,3 @@
-/*
- * globals.h
- *
- *  Created on: 3 февр. 2020 г.
- *      Author: prepod
- */
-
 #ifndef GLOBALS_H_
 #define GLOBALS_H_
 

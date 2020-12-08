@@ -1,10 +1,3 @@
-/*
- * FMWaveGenerator.h
- *
- *  Created on: 17 ����. 2020 �.
- *      Author: prepod
- */
-
 #ifndef FMWAVEGENERATOR_H_
 #define FMWAVEGENERATOR_H_
 

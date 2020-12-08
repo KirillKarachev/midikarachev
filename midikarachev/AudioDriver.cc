@@ -1,10 +1,3 @@
-/*
- * AudioDriver.cc
- *
- *  Created on: 3 ����. 2020 �.
- *      Author: prepod
- */
-
 #include "AudioDriver.h"
 #include <iostream>
 

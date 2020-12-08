@@ -1,10 +1,3 @@
-/*
- * EnvelopeGenerator.h
- *
- *  Created on: 10 февр. 2020 г.
- *      Author: prepod
- */
-
 #ifndef ENVELOPEGENERATOR_H_
 #define ENVELOPEGENERATOR_H_
 

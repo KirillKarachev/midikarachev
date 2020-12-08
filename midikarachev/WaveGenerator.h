@@ -1,10 +1,3 @@
-/*
- * WaveGenerator.h
- *
- *  Created on: 3 ����. 2020 �.
- *      Author: prepod
- */
-
 #ifndef WAVEGENERATOR_H_
 #define WAVEGENERATOR_H_
 

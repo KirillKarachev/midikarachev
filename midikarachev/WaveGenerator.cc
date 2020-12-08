@@ -1,10 +1,3 @@
-/*
- * WaveGenerator.cc
- *
- *  Created on: 3 февр. 2020 г.
- *      Author: prepod
- */
-
 #include "WaveGenerator.h"
 
 double WaveGenerator::next_sample()

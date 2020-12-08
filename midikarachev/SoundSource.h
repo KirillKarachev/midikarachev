@@ -1,10 +1,3 @@
-/*
- * SoundSource.h
- *
- *  Created on: 10 февр. 2020 г.
- *      Author: prepod
- */
-
 #ifndef SOUNDSOURCE_H_
 #define SOUNDSOURCE_H_
 
